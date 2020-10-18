@@ -1,0 +1,32 @@
+{
+  "_from": "fastify-guarder",
+  "_id": "fastify-guarder@0.1.0",
+  "_inBundle": false,
+  "_phantomChildren": {},
+  "_requested": {
+  },
+  "_requiredBy": [],
+  "author": {
+    "name": "chende",
+    "email": "qinchende@qq.com"
+  },
+  "contributors": [],
+  "dependencies": {
+  },
+  "deprecated": false,
+  "description": "Utils for Node.js",
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "homepage": "https://www.guarder.me/",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "main": "guarder.js",
+  "name": "fastify-guarder",
+  "scripts": {
+  },
+  "version": "0.1.0"
+}
