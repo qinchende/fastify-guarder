@@ -7,7 +7,7 @@
   },
   "_requiredBy": [],
   "author": {
-    "name": "chende",
+    "name": "闪电侠",
     "email": "qinchende@qq.com"
   },
   "contributors": [],
@@ -20,7 +20,7 @@
   "engines": {
     "node": ">=6"
   },
-  "homepage": "https://www.guarder.me/",
+  "homepage": "https://www.chende.ren/",
   "keywords": [
   ],
   "license": "MIT",
