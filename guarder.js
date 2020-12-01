@@ -1,6 +1,6 @@
 // MIT License
 //
-// Copyright (c) 2016 - 2020 cd.net(qinchende@qq.com) website: www.chende.ren
+// Copyright (c) 2016 - 2020 闪电侠(chende.ren)
 //
 // NodeJS Guarder for fastify .
 //
@@ -31,11 +31,11 @@ global.Gd = {
     },
 };
 
-require('./lib/core');
+require('./lib/core');          // global Gd.xxx
 require('./lib/class_ext');
 require('./lib/logger');        // global Log.xxx
 require('./lib/crypto_sec');
-require('./lib/utils');         // global Utl.xxx
+require('./lib/utils');
 
 require('./lib/web/render');
 require('./lib/web/req_log');
@@ -46,10 +46,12 @@ require('./lib/web/server');
 require('./lib/reg/hook');
 require('./lib/reg/route');
 
+// 目前只支持这几种，后期慢慢添加
 require('./lib/conn/conn');
 require('./lib/conn/ioredis');
 require('./lib/conn/mysql2');
 require('./lib/conn/mqtt');
+require('./lib/conn/sms');
 
 require('./lib/session/base');
 require('./lib/session/token');

@@ -1,6 +1,6 @@
 {
   "_from": "fastify-guarder",
-  "_id": "fastify-guarder@0.1.0",
+  "_id": "fastify-guarder@0.2.0",
   "_inBundle": false,
   "_phantomChildren": {},
   "_requested": {
@@ -28,5 +28,5 @@
   "name": "fastify-guarder",
   "scripts": {
   },
-  "version": "0.1.0"
+  "version": "0.2.0"
 }
