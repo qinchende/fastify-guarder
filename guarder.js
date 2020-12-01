@@ -27,7 +27,7 @@ global.Gd = {
     Outs: {},
     MetaInfo: {
         projectName: 'FastifyGuarder',
-        designer: 'cd.net(qinchende@qq.com)'
+        designer: '闪电侠(chende.ren)'
     },
 };
 
